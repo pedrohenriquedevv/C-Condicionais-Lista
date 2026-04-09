@@ -1,7 +1,7 @@
 # C-Condicionais-Lista
 # 💻 Exercícios: Introdução a Sistemas de Informação
 
-Repositório destinado à resolução da **Lista de Exercícios 2** da disciplina de **Introdução a Sistemas de Informação**. [cite_start]O foco deste módulo é a implementação de **Estruturas Condicionais** (logística de decisão). [cite: 1, 2]
+Repositório destinado à resolução da **Lista de Exercícios 2** da disciplina de **Introdução a Sistemas de Informação**.O foco deste módulo é a implementação de **Estruturas Condicionais** (logística de decisão). [cite: 1, 2]
 
 ## 🚀 Sobre o Projeto
 
