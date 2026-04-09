@@ -2,6 +2,7 @@
 # 💻 Exercícios: Introdução a Sistemas de Informação
 
 Repositório destinado à resolução da **Lista de Exercícios 2** da disciplina de **Introdução a Sistemas de Informação**.O foco deste módulo é a implementação de **Estruturas Condicionais** (logística de decisão).
+(SEM USO DE IA!!!)
 ## 🚀 Sobre o Projeto
 
 Este projeto contém algoritmos desenvolvidos para resolver problemas de lógica computacional, simulando cenários reais de sistemas corporativos, financeiros e de saúde. 
